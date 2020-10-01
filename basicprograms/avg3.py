@@ -1,4 +1,4 @@
-sid = int(input("Enter student id"))
+sid = int(input("Enter the student id"))
 name = input("Enter student name")
 sub1 = float(input("enter the marks sub1"))
 sub2 = float(input("enter the marks of sub2"))
