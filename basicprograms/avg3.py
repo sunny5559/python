@@ -1,5 +1,5 @@
 sid = int(input("Enter the student id"))
-name = input("Enter student name")
+name = input("Enter the student name")
 sub1 = float(input("enter the marks sub1"))
 sub2 = float(input("enter the marks of sub2"))
 sub3 = float(input("enter the matrks of sub3"))
